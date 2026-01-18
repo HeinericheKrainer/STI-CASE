@@ -10,3 +10,5 @@
 ##Files included
 - do files and clean and raw data for stata analysis
 - R scripts for analysis
+- A report on the analysis
+- A questionnaire involved with the data
